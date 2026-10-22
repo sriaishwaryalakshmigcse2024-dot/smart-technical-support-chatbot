@@ -1,0 +1,13 @@
+Wi-Fi Troubleshooting Guide
+
+Problem: Laptop cannot connect to Wi-Fi.
+
+Step 1: Check that Wi-Fi is enabled on the laptop.
+
+Step 2: Confirm that airplane mode is turned off.
+
+Step 3: Restart the laptop and the wireless router.
+
+Step 4: Check whether other devices can connect to the same network.
+
+Escalation: If the problem continues, contact the IT support team.
