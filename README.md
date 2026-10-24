@@ -71,7 +71,15 @@ Create and activate a virtual environment on Windows:
 
 Install project dependencies:
 
-    python -m pip install -r requirements.txt
+    python -m pip install streamlit
+pymupdf
+python-docx
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+python-dotenv
+pytest
 
 Ensure Ollama is installed and running, and download the model:
 
